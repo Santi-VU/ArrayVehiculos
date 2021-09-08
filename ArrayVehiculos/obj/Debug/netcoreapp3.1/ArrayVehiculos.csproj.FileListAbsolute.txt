@@ -1,0 +1,13 @@
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.exe
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.deps.json
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.runtimeconfig.json
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.runtimeconfig.dev.json
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.dll
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\bin\Debug\netcoreapp3.1\ArrayVehiculos.pdb
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.csprojAssemblyReference.cache
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.AssemblyInfoInputs.cache
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.AssemblyInfo.cs
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.dll
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.pdb
+C:\Users\holacons\Desktop\VU WorkSpace\ArrayVehiculos\ArrayVehiculos\obj\Debug\netcoreapp3.1\ArrayVehiculos.genruntimeconfig.cache
